@@ -1,6 +1,6 @@
 # franz_recipes
 
-### PLUGINS
+### Recipes
 
 - Asana
 
