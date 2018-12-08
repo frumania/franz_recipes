@@ -16,10 +16,10 @@
 
 ### More Infos
 
-DEV GUIDE
+Developer Guide
 
 https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-content-deployment
 
-TEST
+Download Franz
 
 https://meetfranz.com/
