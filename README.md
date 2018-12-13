@@ -1,10 +1,10 @@
 # franz_recipes
 
-### Recipes
+## Recipes
 
 - [Asana](https://asana.com)
 
-### Installation
+## Installation
 
 1. To install a new integration, download the integration folder e.g `asana`.
 2. Open the Franz Plugins folder on your machine (note that this `dev` directory may not exist yet, and you must create it):
@@ -14,7 +14,7 @@
 3. Copy the `asana` folder into the plugins directory
 4. Reload Franz
 
-### More Infos
+## More Infos
 
 Developer Guide
 
@@ -23,3 +23,7 @@ https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-conten
 Download Franz
 
 https://meetfranz.com/
+
+## License
+
+[![Apache 2](https://img.shields.io/badge/license-Apache%202-blue.svg)](./LICENSE.txt)
