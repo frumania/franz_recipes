@@ -3,6 +3,8 @@
 ## Recipes
 
 - [Asana](https://asana.com)
+- [Evernote](https://evernote.com)
+- [(Amazon) Chime](https://app.chime.aws)
 
 ## Installation
 

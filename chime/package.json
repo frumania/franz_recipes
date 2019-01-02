@@ -1,0 +1,13 @@
+{
+  "id": "chime",
+  "name": "Chime",
+  "version": "1.0.0",
+  "description": "Chime",
+  "main": "index.js",
+  "author": "Marcel Törpe <info@frumania.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.chime.aws",
+    "hasNotificationSound": true
+  }
+}
