@@ -1,0 +1,13 @@
+{
+  "id": "quip",
+  "name": "Quip",
+  "version": "1.0.0",
+  "description": "Quip",
+  "main": "index.js",
+  "author": "Marcel Törpe <info@frumania.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://quip-amazon.com",
+    "hasNotificationSound": true
+  }
+}
