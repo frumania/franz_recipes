@@ -5,6 +5,7 @@
 - [Asana](https://asana.com)
 - [Evernote](https://evernote.com)
 - [(Amazon) Chime](https://app.chime.aws)
+- [(Amazon) Quip](https://quip-amazon.com)
 
 ## Installation
 
